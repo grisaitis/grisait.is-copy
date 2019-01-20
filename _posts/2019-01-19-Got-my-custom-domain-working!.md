@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom domain now working with GitHub pages!
+title: My custom domain is now working with GitHub pages!
 
 ---
 My custom domain is finally pointing to this site!
