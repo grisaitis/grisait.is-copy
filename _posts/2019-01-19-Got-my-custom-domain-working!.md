@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Looks like my domain name is now working with GitHub Pages (this site)
----
+title: Custom domain now working with GitHub pages!
 
+---
 My custom domain is finally pointing to this site!
 ```
 wcg-macbookpro:~ grisaitisw$ dig grisaitis.github.io +noall +answer
@@ -32,4 +32,4 @@ To make things work I:
 
 I also found that GitHub pages stopped working after I renamed my GH repo name to `grisait.is`. So I had to reenable it in the repo settings.
 
-Comment below if you're having issues with configuring your site and I'll do what I can to help. 
+Comment below if you're having issues with configuring your site and I'll do what I can to help.
