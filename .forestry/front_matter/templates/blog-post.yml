@@ -5,4 +5,4 @@ is_partial: false
 fields:
 - type: textarea
 pages:
-- _posts/blogpost.md
+- _posts/2019-01-20-blogpost.md
