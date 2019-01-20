@@ -5,4 +5,4 @@ is_partial: false
 fields:
 - type: textarea
 pages:
-- _posts/2019-01-20-blogpost.md
+- _posts/workflows-for-blogging-with-github-pages.md
