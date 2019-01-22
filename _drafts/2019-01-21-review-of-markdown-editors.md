@@ -20,7 +20,7 @@ In this post I explore some options, but be warned: **there doesn't seem to be a
 #### Gabriel: A Google Docs Extension for GitHub Pages
 My rating: **0 / 5**
 
-Someone actually made a Google Docs plug-in for Pages! ... But I'm not sure it even works. The plug-in, called [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). Nice idea, but not 
+Someone actually made a Google Docs plug-in for Pages! ... But I'm not sure it even works. The plug-in, called [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). Nice idea, but not a reliable solution.
 
 
 #### Prose.io
@@ -39,7 +39,7 @@ A few more critiques...
 
 My rating: **4 / 5** 
 
-This is the best editor I've tried so far, but it still leaves some things to be desired for this picky writer. 
+This is the best editor I've tried so far, but it still leaves some things to be desired for this pick 
 
 The interface strikes a great balance between simplicity and making as many options visible to you for editing. The app is divided in two: the left side is for writing in markdown, and the right side renders the result instantly. Neither side feels cramped. StackEdit also sports most keyboard shortcuts, like tab for indentation. 
 
@@ -60,5 +60,5 @@ The best approach to blogging with Jekyll and Pages, then, is:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODgzNzE5MCwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbLTQwNzk3NTUxNiwyMTE0MzI3MTZdfQ==
 -->
