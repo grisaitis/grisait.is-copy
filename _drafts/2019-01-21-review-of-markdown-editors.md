@@ -18,13 +18,14 @@ Here's what I'm looking for in an editor:
 #### Gabriel: An Extension to Google Docs
 My rating: **0 / 5**
 
-Someone actually made a Google Docs plug-in for Pages... but I'm not sure it even works. The plug-in, called [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). 
+Someone actually made a Google Docs plug-in for Pages... but I'm not sure it even works. The plug-in, called [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). 
 
 
 #### Prose.io
 
-**3.5 / 5** 
-Prose.io gets a lot of attention but in practice feels incomplete and feature poor. 
+My rating: **3.5 / 5** 
+
+Prose.io is one of the first results on Google for " attention but in practice feels incomplete and feature poor. 
 
  This oft-mentioned editor is solid but rather spartan. The interface is similar to editing markdown on github.com but with a nicer editor and more syncing options. (Actually, it might use the exact same editor, [atom](atom.io).)
 
@@ -55,5 +56,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjExNjAyNywyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTM5MjExNTAsMjExNDMyNzE2XX0=
 -->
