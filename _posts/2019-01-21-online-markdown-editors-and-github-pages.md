@@ -32,15 +32,15 @@ My rating: **3 / 5**
 
 Prose.io is a pretty good editor. It's a clean, minimalist app, which summarizes its best and worst aspects. The site is a breeze to use, with no clutter, but in practice prose.io feels incomplete and feature poor. It's basically like editing markdown on github.com, but with a nicer editor and more syncing options. (Actually, the editor might be the same... the [atom](atom.io) editor, open sourced by GitHub.)
 
-Many features are missing from the experience, though. No keyboard shortcuts. No instant preview. It can't move files, which means you can't publish articles by, for example, moving them from `_drafts` to `_posts`.  And inexplicably the text editor uses 2/3 of the screen. The remaining white space stands as a monument, in a way, to the app's unfinished state -- a subtle yet vast reminder of how disappointing app is.
+Many features are missing from the experience, though. No keyboard shortcuts. No instant preview. It can't move files, which means you can't publish articles by, for example, moving them from `_drafts` to `_posts`.  And inexplicably the text editor uses 2/3 of the screen. The remaining white space stands as a monument, in a way, to the app's unfinished state -- a subtle yet vast reminder of how disappointing the editor is. Or maybe that's just me. :)
 
 ### StackEdit
 
 My rating: **4 / 5** 
 
-This is the best editor I've tried so far, but it still leaves some things to be desired for this demanding user. 
+This was the best editor I tried, but it still left some things to be desired.
 
-The interface strikes a great balance between simplicity and displaying useful functionality while editing. The app has two partitions: an editor on the left for writing markdown, and a viewer on the right with instantly rendered text. Neither side feels cramped. StackEdit has most keyboard shortcuts, too, like tab for indentation, but not Cmd + K, oddly, for creating a link. It also feels old (circa 2014?) and there's no mobile app. And anyway, should a text editor get credit for implementing tab indentation in 2019? I'm probably being generous. (Prose.io lowered my standards, I think.)
+The interface strikes a great balance between simplicity and displaying useful functionality while editing. The app has two partitions: an editor on the left for writing markdown and a viewer on the right with instantly rendered text. Neither side feels cramped. StackEdit has most keyboard shortcuts, too, like tab for indentation... but not Cmd + K, oddly, for creating a link. It also feels old (circa 2014?) and there's no mobile app. And anyway, should a text editor get credit for implementing tab indentation in 2019? I'm probably being generous. (Prose.io lowered my standards, I think.)
 
 ### Closing thoughts
 
@@ -59,6 +59,6 @@ The best approach when blogging with Jekyll and Pages, then, is probably somethi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MDk0MTY5LDEwMzIzMzczMTcsLTkwNT
-U5MDQxOV19
+eyJoaXN0b3J5IjpbMTk5NjgwODI1MywxMDMyMzM3MzE3LC05MD
+U1OTA0MTldfQ==
 -->
