@@ -1,6 +1,6 @@
-## Review: Some Online Markdown Editors
+## Online Markdown Editors: What's the Best Option for GitHub Pages?
 
-Welcome back! In my last post I discussed workflows for maintaining a blog powered by GitHub Pages + Jekyll. That's a popular stack for tech bloggers, but pretty bare-bones when it comes to actually drafting blog posts. For a better writing experience I'm trying out a few markdown editors.
+Welcome back! In a previous post I discussed workflows for maintaining a blog powered by GitHub Pages + Jekyll. That's a popular stack for tech bloggers, but pretty bare-bones when it comes to actually drafting blog posts. For a better writing experience I'm trying out a few markdown editors.
 
 Markdown editors make blogging much easier. You can focus much more on content and less on technical details like formatting your page, making git commits, managing drafts and published files, etc. 
 
@@ -36,5 +36,5 @@ The ugly
 - The text editor only takes up 2/3 of the screen (..?)
 - Can't move files to different folders (!!)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Nzc1NjM1N119
+eyJoaXN0b3J5IjpbOTkyNTgwMDQwXX0=
 -->
