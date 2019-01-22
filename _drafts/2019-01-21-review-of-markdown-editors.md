@@ -37,7 +37,10 @@ A few more critiques...
 
 My rating: **4 / 5** 
 
-This is the best editor I've tried so far, but it still leaves some things to be desired for this picky writer. The i
+This is the best editor I've tried so far, but it still leaves some things to be desired for this picky writer. 
+
+The interface strikes a great balance between simplicity and making as many options visible to you for editing. The app has two frames: editing on the left half, and rendered pretty text on the right half; and neither side feels cramped. 
+
 The good:
 - Instant preview!
 	- Has a two-column structure: type on the left, see rendered output on the right
@@ -49,5 +52,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg1NTk2MzIsMjExNDMyNzE2XX0=
+eyJoaXN0b3J5IjpbMTk0MjczMTM4NSwyMTE0MzI3MTZdfQ==
 -->
