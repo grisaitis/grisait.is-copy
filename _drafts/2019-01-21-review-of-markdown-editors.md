@@ -15,9 +15,11 @@ Here's what I'm looking for in an editor:
 	- When I refresh the page, I should not lose my work
 - A LaTeX editor, formula builder, or something to help with LaTeX syntax
 
-#### Gabriel: An Extension to Google Docs 
+#### Gabriel: An Extension to Google Docs
+My rating: **0 / 5**
 
-It turns out someone made a Google Docs plugin for Pages... but unfortunately it gets bad reviews and was abandoned in 2015. The plug-in, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)).
+Someone actually made a Google Docs plug-in for Pages... but I'm not sure it even works. The plug-in, called [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). 
+
 
 #### Prose.io
 
@@ -53,5 +55,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjA1MTc3MywyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbLTMyNjExNjAyNywyMTE0MzI3MTZdfQ==
 -->
