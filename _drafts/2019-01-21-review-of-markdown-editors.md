@@ -11,14 +11,13 @@ Here's what I'm looking for in an editor:
 - A mobile app, or a good mobile browser design
 - Integrations with Google Docs and GitHub
 	- I'd like to edit articles via Google Docs, especially if offline and mobile support is scant.
-- Draft caching
-	-  Will I lose my work if I refresh the browser while drafting a new document?
-- LaTeX editing: a formula builder or editor to assist with LaTeX syntax
-- Text blocks formatted for code, quotes, etc
+- Caching drafts
+	- When I refresh the page, I should not lose my work
+- A LaTeX editor, formula builder, or something to help with LaTeX syntax
 
-#### Project Gabriel
+#### Gabriel: An Extension to Google Docs 
 
-It turns out someone did in fact make an interesting Google Docs plugin, but it gets bad reviews and was abandoned in 2015. The plug-in, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately [the project code](https://github.com/thiscouldbejd/Gabriel)) is unchanged since 2015 and it gets unenthusiastic reviews on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). 
+It turns out someone made an interesting Google Docs plugin, but it gets bad reviews and was abandoned in 2015. The plug-in, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately [the project code](https://github.com/thiscouldbejd/Gabriel)) is unchanged since 2015 and it gets unenthusiastic reviews on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). 
 
 #### Prose.io
 
@@ -54,5 +53,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzE5MDQxNSwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbNDUwODY1NDQ1LDIxMTQzMjcxNl19
 -->
