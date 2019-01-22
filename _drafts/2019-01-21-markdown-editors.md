@@ -30,7 +30,6 @@ The bad
 - No instant preview
 - Weird markdown editing behavior
   - E.g, clicking a header format doesn't change the format of the current line; it creates a new paragraph, breaking the text at wherever your cursor was. 
-- Doesn't 
 
 The ugly
 - The text editor only takes up 2/3 of the screen (..?)
@@ -40,8 +39,10 @@ The ugly
 
 **4.5 / 5** 
 The good
--  
+- Instant preview!
+	- Has a two-column structure: type on the left, see rendered output on the right
+- Has most keyboard short
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MjMxNzUwLC00NzAzMTAwOTgsOTkyNT
-gwMDQwXX0=
+eyJoaXN0b3J5IjpbLTIwMDg4OTA5OTgsLTQ3MDMxMDA5OCw5OT
+I1ODAwNDBdfQ==
 -->
