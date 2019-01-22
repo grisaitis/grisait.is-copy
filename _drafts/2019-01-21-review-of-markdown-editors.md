@@ -23,19 +23,21 @@ Someone actually made a Google Docs plug-in for Pages... but I'm not sure it eve
 
 #### Prose.io
 
-My rating: **3.5 / 5** 
+My rating: **3 / 5** 
 
 Prose.io is a pretty good editor. It's a clean, minimalist app, which summarizes its best and worst aspects. The site is a breeze to use, with no clutter, but in practice prose.io feels incomplete and feature poor. It's basically like editing markdown on github.com, but with a nicer editor and more syncing options. (Actually, the editor might be the same... the [atom](atom.io) editor, open sourced by GitHub.)
 
 A few more critiques...
 - No keyboard shortcuts
 - No instant preview
-- The text editor only takes up 2/3 of the screen (..?)
-- Can't move files to different folders (e.g. from `_drafts` to `_posts`)
+- The text editor only takes up 2/3 of the screen (why??)
+- Can't move files, e.g. from `_drafts` to `_posts` to publish an article
 
 ### StackEdit
 
-**4.5 / 5** 
+My rating: **4 / 5** 
+
+This is the best editor I've tried so far, but it still leaves some things to be desired for this picky writer. The i
 The good:
 - Instant preview!
 	- Has a two-column structure: type on the left, see rendered output on the right
@@ -47,5 +49,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU1OTYzNDQsMjExNDMyNzE2XX0=
+eyJoaXN0b3J5IjpbLTExOTg1NTk2MzIsMjExNDMyNzE2XX0=
 -->
