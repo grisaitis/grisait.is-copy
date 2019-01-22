@@ -20,10 +20,10 @@ Here's what I'd like in an editor:
 
 In this post I explore some options, but be warned: **there doesn't seem to be a great markdown editor out there** with the features I think are crucial. The most popular free editors, after to some googling, seem to be [Prose.io](prose.io), [StackEdit.io](stackedit.io), and [Dillinger.io](dillinger.io). (Please comment below if you think I'm missing a big one.) I tried out the first two, and also a Google Docs plugin for Pages that looked promising but... Well, you'll see. :)
 
-### Gabriel (Google Docs 
+### Gabriel (Google Docs Add-on)
 My rating: **0 / 5**
 
-Someone actually made a Google Docs plug-in for Pages! ... But I'm not sure it even works. The plug-in, called [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). Nice idea, but not a reliable solution.
+Someone actually made a Google Docs add-on for Pages! ... But I'm not sure it even works. The add-on, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). Nice idea, but not a reliable solution.
 
 
 ### Prose.io
@@ -32,11 +32,9 @@ My rating: **3 / 5**
 
 Prose.io is a pretty good editor. It's a clean, minimalist app, which summarizes its best and worst aspects. The site is a breeze to use, with no clutter, but in practice prose.io feels incomplete and feature poor. It's basically like editing markdown on github.com, but with a nicer editor and more syncing options. (Actually, the editor might be the same... the [atom](atom.io) editor, open sourced by GitHub.)
 
-A few more critiques...
-- No keyboard shortcuts
-- No instant preview
+Many features are missing from the experience, though. No keyboard shortcuts. No instant preview. It Can't move files, e.g. from `_drafts` to `_posts` to publish an article
 - The text editor only takes up 2/3 of the screen (why??)
-- Can't move files, e.g. from `_drafts` to `_posts` to publish an article
+- 
 
 ### StackEdit
 
@@ -63,6 +61,6 @@ The best approach when blogging with Jekyll and Pages, then, is probably somethi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjQ1MDc1OSwxMDMyMzM3MzE3LC05MD
-U1OTA0MTldfQ==
+eyJoaXN0b3J5IjpbLTIwNjcwOTY3MTYsMTAzMjMzNzMxNywtOT
+A1NTkwNDE5XX0=
 -->
