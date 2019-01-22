@@ -3,8 +3,6 @@ layout: post
 title: Online Markdown Editors and GitHub Pages
 ---
 
-## Online Markdown Editors and GitHub Pages
-
 When I started blogging with Jekyll and GitHub Pages, I thought the best approach to writing and drafting posts was to use a markdown editor. My thought process went:
 1. Jekyll posts have to be markdown-formatted
 3. Lots of people use markdown editors, it seems
