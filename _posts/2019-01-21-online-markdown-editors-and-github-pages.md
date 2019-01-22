@@ -3,12 +3,10 @@ layout: post
 title: Online Markdown Editors and GitHub Pages
 ---
 
- Online Markdown Editors and GitHub Pages
-
 When I started blogging with Jekyll and GitHub Pages, I thought the best approach to writing and drafting posts was to use a markdown editor. My thought process went:
 1. Jekyll posts have to be markdown-formatted
-3. Lots of people use markdown editors, it seems
-4. Many editors offer GitHub integration, with Pages sites in mind
+2. Lots of people use markdown editors, it seems
+3. Many editors offer GitHub integration, with Pages sites in mind
 
 Basically, I'm not fluent in markdown syntax -- the language for formatting these documents with headers, sections, etc. -- and neither do I want to be. And I'd also like to avoid making git commits, managing folders with drafts, and other technical things. I just want to write, which is enough work as it is. 
 
@@ -57,12 +55,14 @@ Put another way, integration with GitHub is not the most important feature in a 
 The best approach when blogging with Jekyll and Pages, then, is probably something like:
 
 1. Draft articles in Google Docs
-2. Use a markdown editor, briefly, to convert the document to markdown
+2. Convert the document to markdown
+	- This Docs add-on,  seems to work well
 3. Publish the article in one of two ways:
 	- Manually in GitHub
 	- Or via the editor's Pages integration
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjMzNzMxNywtOTA1NTkwNDE5XX0=
+eyJoaXN0b3J5IjpbLTE0MDgzMzQwNjEsMTAzMjMzNzMxNywtOT
+A1NTkwNDE5XX0=
 -->
