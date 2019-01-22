@@ -17,7 +17,7 @@ Here's what I'm looking for in an editor:
 
 #### Gabriel: An Extension to Google Docs 
 
-It turns out someone made an interesting Google Docs plugin, but it gets bad reviews and was abandoned in 2015. The plug-in, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately [the project code](https://github.com/thiscouldbejd/Gabriel)) is unchanged since 2015 and it gets unenthusiastic reviews on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). 
+It turns out someone made a Google Docs plugin for Pages... but unfortunately it gets bad reviews and was abandoned in 2015. The plug-in, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)).
 
 #### Prose.io
 
@@ -53,5 +53,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwODY1NDQ1LDIxMTQzMjcxNl19
+eyJoaXN0b3J5IjpbMTA4MjA1MTc3MywyMTE0MzI3MTZdfQ==
 -->
