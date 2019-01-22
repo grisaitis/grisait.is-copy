@@ -45,7 +45,8 @@ On the downside, it feels old (circa 2014?) and has no mobile app. And should a 
 
 ### Closing thoughts
 
-There are pen
+
+Google Docs is the best text editor. No markdown editor will surpass it in terms of interface, mobile support, offline editing, collaboration, and all the other features that make it indispensable. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MTY2NzUsMjExNDMyNzE2XX0=
+eyJoaXN0b3J5IjpbNDIzODY3MDM0LDIxMTQzMjcxNl19
 -->
