@@ -5,9 +5,9 @@ When I started blogging with Jekyll and GitHub Pages, I thought the best approac
 3. Lots of people use markdown editors, it seems
 4. Many editors offer GitHub integration, with Pages sites in mind
 
-My thoughtI'm not fluent in markdown syntax -- the language for formatting text in these documents, with headers, sections, and so on -- and neither do I want to be. And beyond markdown I want to avoid technical details like formatting pages, making git commits, managing folders with drafts, etc. 
+Basically, I'm not fluent in markdown syntax -- the language for formatting these documents with headers, sections, etc. -- and neither do I want to be. And I'd also like to avoid making git commits, managing folders with drafts, and other technical things. I just want to write, which is enough work as it is. 
 
-That said, what's the best editor? Is there one out there that actually works well? And what features should it have to be most useful for a Pages blog? My ideal editor would be something like Google Docs with two additions: (1) the ability to sync with GitHub and (2) a LaTeX editor for math expressions. Does something like this exist?
+So what's the best editor? Does a good one even exist? And what features should it have to be most useful for a Pages blog? My ideal editor would be something like Google Docs with two additions: (1) the ability to sync with GitHub and (2) a LaTeX editor for math expressions. Does something like this exist?
 
 I haven't found anything that checks all my boxes, but I've tried a few. The most popular free editors, after to some googling, seem to be prose.io, stackedit.io, and dillinger.io. (Please comment below if you think I'm missing a big one.)
 
@@ -63,5 +63,5 @@ The best approach to blogging with Jekyll and Pages, then, is:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDg2MDM1OSwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NTI1MDYwOTcsMjExNDMyNzE2XX0=
 -->
