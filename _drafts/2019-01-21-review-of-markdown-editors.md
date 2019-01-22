@@ -49,7 +49,9 @@ There are plenty of markdown editors out there, but, honestly, they all kind of 
 
 Put another way: 
 1. Integration with GitHub is not the most important feature in a markdown editor
-2. A markdown editor is not the best solution for managing a Jekyll / Pages site . Would I like a great text editor to have this, in addition to handling markdown for me? Yes, but I'm afraid such an app doesn't exist. Even if an editor has seamless GitHub syncing, it's useless -- to me -- if the writing interface isn't amazing.
+2. A markdown editor is not the best solution for managing a Jekyll Pages site. 
+
+Would I like a great text editor to have GitHub integration, in addition to handling markdown for me? Yes, but such an app doesn't exist. But even if it did, it'd still be useless if the writing interface isn't 
 
 The best approach to blogging with Jekyll and Pages, then, is:
 3. Draft in Google Docs
@@ -60,6 +62,6 @@ The best approach to blogging with Jekyll and Pages, then, is:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODM1MjI2NCwtMTI3NzQxMzc1NCwyMT
+eyJoaXN0b3J5IjpbLTM0OTI0NDYwOCwtMTI3NzQxMzc1NCwyMT
 E0MzI3MTZdfQ==
 -->
