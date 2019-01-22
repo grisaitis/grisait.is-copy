@@ -40,7 +40,7 @@ My rating: **4 / 5**
 
 This was the best editor I tried, but it still left some things to be desired.
 
-The interface strikes a great balance between simplicity and displaying useful functionality while editing. The app has two partitions: an editor on the left for writing markdown and a viewer on the right with instantly rendered text. Neither side feels cramped. StackEdit has most keyboard shortcuts, too, like tab for indentation... but not Cmd + K, oddly, for creating a link. It also feels old (circa 2014?) and there's no mobile app. And anyway, should a text editor get credit for implementing tab indentation in 2019? I'm probably being generous. (Prose.io lowered my standards, I think.)
+The interface strikes a great balance between simplicity and displaying useful functionality while editing. The app has two partitions: an editor on the left for writing markdown and a viewer on the right with instantly rendered text. Neither side feels cramped. StackEdit has most keyboard shortcuts, too, like tab for indentation... but not Cmd + K, oddly, for creating a link. It also feels old (circa 2014?), and there's no mobile app. And besides, should a text editor get credit for implementing tab indentation in 2019? I'm probably being generous. (Prose.io lowered my standards, I think.)
 
 ### Closing thoughts
 
@@ -52,13 +52,13 @@ The best approach when blogging with Jekyll and Pages, then, is probably somethi
 
 1. Draft articles in Google Docs
 2. Convert the document to markdown
-	- This [Docs to Markdown](https://chrome.google.com/webstore/detail/docs-to-markdown/igffnbdfnodiaphfmfaiiaegmoljbghf) add-on looks great
+	- This add-on looks great: [Docs to Markdown](https://chrome.google.com/webstore/detail/docs-to-markdown/igffnbdfnodiaphfmfaiiaegmoljbghf) 
 3. Publish the article in one of two ways:
 	- Manually in GitHub
 	- Or via the editor's Pages integration
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjgwODI1MywxMDMyMzM3MzE3LC05MD
-U1OTA0MTldfQ==
+eyJoaXN0b3J5IjpbNDQ5NDkwNjkzLDEwMzIzMzczMTcsLTkwNT
+U5MDQxOV19
 -->
