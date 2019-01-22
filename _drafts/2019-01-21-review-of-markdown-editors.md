@@ -4,7 +4,7 @@ Using a markdown editor is a great way to draft and publish blog posts for a Jek
 
 But what's the best editor, and what features are most relevant for a Pages blog? The most popular free options, according to some googling,  are prose.io, stackedit.io, and dillinger.io. (If I'm missing a big one, please comment below.)
 
-If I could create an ideal workflow out of thin air, I'd add a Google Docs extension that can edit and sync markdown files in my site's GitHub repo. And perhaps also a LaTeX editor for math formulas. It turns out someone did in fact make a Google Docs plugin, but it gets
+If I could create an ideal workflow out of thin air, I'd add a Google Docs extension that can edit and sync markdown files in my site's GitHub repo. And perhaps also a LaTeX editor for math formulas. 
 
 That said, here are some features I'm looking for
 - Draft caching: Will I lose my work if I refresh the browser while drafting a new document?
@@ -16,7 +16,7 @@ That said, here are some features I'm looking for
 
 #### Project Gabriel
 
-A quick note: there actually is a Google Docs extension for publishing content to GitHub Pages, but it's abandonware. The plug-in, [Gabriel](https://educ.io/extensions/gabriel), claims to convert docs to markdown and commit them to a Pages repo, but the source code is unchanged since 2015 (see [GitHub project](https://github.com/thiscouldbejd/Gabriel)) and the product gets unenthusiastic reviews on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)).
+It turns out someone did in fact make an interesting Google Docs plugin, but it gets bad reviews and was abandoned in 2015. The plug-in, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately the source code is unchanged since 2015 and the product gets unenthusiastic reviews on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)).
 
 #### Prose.io
 
@@ -49,5 +49,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ0ODMxNzYsMjExNDMyNzE2XX0=
+eyJoaXN0b3J5IjpbMTExMDUyMzk2MiwyMTE0MzI3MTZdfQ==
 -->
