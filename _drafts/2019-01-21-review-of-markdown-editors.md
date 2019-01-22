@@ -41,11 +41,11 @@ My rating: **4 / 5**
 
 This is the best editor I've tried so far, but it still leaves some things to be desired for this demanding user. 
 
-The interface strikes a great balance between simplicity and displaying useful functionality while editing. The app has two partitions: an editor on the left for writing markdown, and a viewer on the right with instantly rendered text. Neither side feels cramped. StackEdit has most keyboard shortcuts, too, like tab for indentation, but not Cmd + K, oddly, for creating a link. It also feels old (circa 2014?) and there's no mobile app. And anyway, should a text editor  get credit for implementing tab indentation?
+The interface strikes a great balance between simplicity and displaying useful functionality while editing. The app has two partitions: an editor on the left for writing markdown, and a viewer on the right with instantly rendered text. Neither side feels cramped. StackEdit has most keyboard shortcuts, too, like tab for indentation, but not Cmd + K, oddly, for creating a link. It also feels old (circa 2014?) and there's no mobile app. And anyway, should a text editor get credit for implementing tab indentation in 2019? I'm probably being generous. (Prose.io lowered my standards, I think.)
 
 ### Closing thoughts
 
-There are plenty of markdown editors out there, but I don't expect to do all my writing in one. **Google Docs is the best text editor.** No markdown editor will surpass it in terms of interface, mobile support, offline editing, collaboration, and all the other features that make it indispensable and productive.
+There are plenty of markdown editors out there, but, honestly, they all kind of suck in some very important way. **Google Docs is still the best text editor.** Sure, it lacks GitHub integration and markdown No markdown editor will surpass it in terms of interface, mobile support, offline editing, collaboration, and all the other features that make it indispensable and productive.
 
 Put another way, integration with GitHub is actually not the most important feature in a text editor. Would I like a great text editor to have this, in addition to handling markdown for me? Yes, but I'm afraid such an app doesn't exist. Even if an editor has seamless GitHub syncing, it's useless -- to me -- if the writing interface isn't amazing.
 
@@ -58,5 +58,5 @@ The best approach to blogging with Jekyll and Pages, then, is:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTI4MTAwOCwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNzc0MTM3NTQsMjExNDMyNzE2XX0=
 -->
