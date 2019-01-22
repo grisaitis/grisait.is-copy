@@ -39,7 +39,7 @@ My rating: **4 / 5**
 
 This is the best editor I've tried so far, but it still leaves some things to be desired for this picky writer. 
 
-The interface strikes a great balance between simplicity and making as many options visible to you for editing. The app is divided in two: the left side for typing markdown, and the right side has instantly rendered text. Neither side feels cramped. 
+The interface strikes a great balance between simplicity and making as many options visible to you for editing. The app is divided in two: the left side for writing in markdown and the right side with result instantly rendered. Neither side feels cramped. 
 
 The good:
 - Instant preview!
@@ -52,5 +52,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDI4MjI5NiwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbMjA5NTk1ODg4NCwyMTE0MzI3MTZdfQ==
 -->
