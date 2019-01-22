@@ -15,17 +15,12 @@ Here's what I'd like in an editor:
 - Integration with GitHub
 - A LaTeX formula editor or syntax assistant
 
-In this post I explore some options, but be warned: there doesn't seem to be a great markdown editor out there with the features I think are crucial. 
-So what's the best editor? Does a good one even exist? What features are most important for a Pages blog? An ideal editor would be something like Google Docs with two additions: (1) the ability to sync with GitHub and (2) a LaTeX editor for math expressions. Does something like this exist? No.
+In this post I explore some options, but be warned: **there doesn't seem to be a great markdown editor out there** with the features I think are crucial. The most popular free editors, after to some googling, seem to be prose.io, stackedit.io, and dillinger.io. (Please comment below if you think I'm missing a big one.) I try out the first two, and also a Google Docs plugin for Pages that looked promising but... Well, you'll see. :)
 
-
-
-I haven't found anything that checks all my boxes, but I've tried a few. The most popular free editors, after to some googling, seem to be prose.io, stackedit.io, and dillinger.io. (Please comment below if you think I'm missing a big one.)
-
-#### Gabriel: An Extension to Google Docs
+#### Gabriel: A Google Docs Extension for GitHub Pages
 My rating: **0 / 5**
 
-Someone actually made a Google Docs plug-in for Pages... but I'm not sure it even works. The plug-in, called [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). 
+Someone actually made a Google Docs plug-in for Pages! ... But I'm not sure it even works. The plug-in, called [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). Nice idea, but not 
 
 
 #### Prose.io
@@ -65,5 +60,5 @@ The best approach to blogging with Jekyll and Pages, then, is:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY2ODU1ODIsMjExNDMyNzE2XX0=
+eyJoaXN0b3J5IjpbMTYxODgzNzE5MCwyMTE0MzI3MTZdfQ==
 -->
