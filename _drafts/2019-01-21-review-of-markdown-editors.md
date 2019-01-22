@@ -4,7 +4,7 @@ Using a markdown editor is a great way to draft and publish blog posts for a Jek
 
 But what's the best editor, and what features are most relevant for a Pages blog? The most popular free options, according to some googling,  are prose.io, stackedit.io, and dillinger.io. (If I'm missing a big one, please comment below.)
 
-If I could create an ideal workflow out of thin air, I'd My ideal writing environment would be a Google Docs plug-in where I could draft a document in Docs and have it be saved automatically (as a markdown file) to my GitHub repo. And where I could add math formulas as LaTeX.
+If I could create an ideal workflow out of thin air, I'd add a Google Docs extension that can edit and sync markdown files in my site's GitHub repo. And perhaps also a LaTeX editor for math formulas. It turns out someone did in fact make a Google Docs plugin, but it gets
 
 That said, here are some features I'm looking for
 - Draft caching: Will I lose my work if I refresh the browser while drafting a new document?
@@ -49,5 +49,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTQ5MTg5LDIxMTQzMjcxNl19
+eyJoaXN0b3J5IjpbLTE4NjQ0ODMxNzYsMjExNDMyNzE2XX0=
 -->
