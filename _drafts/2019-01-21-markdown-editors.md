@@ -1,4 +1,4 @@
-## A Review of Online Markdown Eitors
+## Review: Some Online Markdown Editors
 
 Welcome back! In my last post I discussed workflows for maintaining a blog powered by GitHub Pages + Jekyll. That's a popular stack for tech bloggers, but pretty bare-bones when it comes to actually drafting blog posts. For a better writing experience I'm trying out a few markdown editors.
 
@@ -36,5 +36,5 @@ The ugly
 - The text editor only takes up 2/3 of the screen (..?)
 - Can't move files to different folders (!!)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDYwOTQ2MV19
+eyJoaXN0b3J5IjpbMTI4Nzc1NjM1N119
 -->
