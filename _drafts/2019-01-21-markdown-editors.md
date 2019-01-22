@@ -1,4 +1,4 @@
-## A Review of a Few Online Markdown Editors
+## A Review of Online Markdown Eitors
 
 Welcome back! In my last post I discussed workflows for maintaining a blog powered by GitHub Pages + Jekyll. That's a popular stack for tech bloggers, but pretty bare-bones when it comes to actually drafting blog posts. For a better writing experience I'm trying out a few markdown editors.
 
@@ -22,7 +22,7 @@ A quick note: there actually is a Google Docs extension for publishing content t
 
 **3.5 / 5** This oft-mentioned editor is solid but rather spartan. The interface is similar to editing markdown on github.com but with a nicer editor and more syncing options. (Actually, it might use the exact same editor, [atom](atom.io).)
 
-The good
+ The good
 - Clean interface
 
 The bad
@@ -30,10 +30,11 @@ The bad
 - No instant preview
 - Weird markdown editing behavior
   - E.g, clicking a header format doesn't change the format of the current line; it creates a new paragraph, breaking the text at wherever your cursor was. 
+- Doesn't 
 
 The ugly
 - The text editor only takes up 2/3 of the screen (..?)
 - Can't move files to different folders (!!)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODAwNzA3XX0=
+eyJoaXN0b3J5IjpbMTg0MDYwOTQ2MV19
 -->
