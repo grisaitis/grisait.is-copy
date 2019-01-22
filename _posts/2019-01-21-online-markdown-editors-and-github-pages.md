@@ -20,13 +20,13 @@ Here's what I'd like in an editor:
 
 In this post I explore some options, but be warned: **there doesn't seem to be a great markdown editor out there** with the features I think are crucial. The most popular free editors, after to some googling, seem to be [Prose.io](prose.io), [StackEdit.io](stackedit.io), and [Dillinger.io](dillinger.io). (Please comment below if you think I'm missing a big one.) I tried out the first two, and also a Google Docs plugin for Pages that looked promising but... Well, you'll see. :)
 
-#### Gabriel: A Google Docs Extension for GitHub Pages
+### Gabriel (Google Docs 
 My rating: **0 / 5**
 
 Someone actually made a Google Docs plug-in for Pages! ... But I'm not sure it even works. The plug-in, called [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). Nice idea, but not a reliable solution.
 
 
-#### Prose.io
+### Prose.io
 
 My rating: **3 / 5** 
 
@@ -56,13 +56,13 @@ The best approach when blogging with Jekyll and Pages, then, is probably somethi
 
 1. Draft articles in Google Docs
 2. Convert the document to markdown
-	- This Docs add-on,  seems to work well
+	- This [Docs to Markdown](https://chrome.google.com/webstore/detail/docs-to-markdown/igffnbdfnodiaphfmfaiiaegmoljbghf) add-on looks great
 3. Publish the article in one of two ways:
 	- Manually in GitHub
 	- Or via the editor's Pages integration
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgzMzQwNjEsMTAzMjMzNzMxNywtOT
-A1NTkwNDE5XX0=
+eyJoaXN0b3J5IjpbMTE4MjQ1MDc1OSwxMDMyMzM3MzE3LC05MD
+U1OTA0MTldfQ==
 -->
