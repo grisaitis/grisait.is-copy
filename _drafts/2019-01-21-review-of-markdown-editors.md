@@ -39,9 +39,9 @@ A few more critiques...
 
 My rating: **4 / 5** 
 
-This is the best editor I've tried so far, but it still leaves some things to be desired for this pick 
+This is the best editor I've tried so far, but it still leaves some things to be desired for this demanding user. 
 
-The interface strikes a great balance between simplicity and making as many options visible to you for editing. The app is divided in two: the left side is for writing in markdown, and the right side renders the result instantly. Neither side feels cramped. StackEdit also sports most keyboard shortcuts, like tab for indentation. 
+The interface strikes a great balance between simplicity and displaying useful functionality while editing. The app has two partitions: an editor on the left for writing markdown, and a viewer on the right with instantly rendered text. Neither side feels cramped. StackEdit also sports most keyboard shortcuts, like tab for indentation. 
 
 On the downside, it feels old (circa 2014?) and has no mobile app. And should a text editor - in 2019 - really get credit for implementing tab indentation?
 
@@ -60,5 +60,5 @@ The best approach to blogging with Jekyll and Pages, then, is:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzk3NTUxNiwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbLTkxMTYyNDYsMjExNDMyNzE2XX0=
 -->
