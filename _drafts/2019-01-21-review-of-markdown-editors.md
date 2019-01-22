@@ -45,9 +45,11 @@ On the downside, it feels old (circa 2014?) and has no mobile app. And should a 
 
 ### Closing thoughts
 
-There are plenty of markdown editors out there, but I don't expect to do all my writing in one. **Google Docs is the best text editor.** No markdown editor will surpass it in terms of interface, mobile support, offline editing, collaboration, and all the other features that make it indispensable. Put another way, a nice editor i
+There are plenty of markdown editors out there, but I don't expect to do all my writing in one. **Google Docs is the best text editor.** No markdown editor will surpass it in terms of interface, mobile support, offline editing, collaboration, and all the other features that make it indispensable. 
+
+I started this process by looking for an app to alsPut another way, GitHub integration is actually not that important of a feature. I started out looking 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDA3OTQzMiwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbMTQxMDA5MTQxMCwyMTE0MzI3MTZdfQ==
 -->
