@@ -25,7 +25,9 @@ Someone actually made a Google Docs plug-in for Pages... but I'm not sure it eve
 
 My rating: **3.5 / 5** 
 
-Prose.io is one of the first results on Google for " attention but in practice feels incomplete and feature poor. 
+Prose.io is a pretty good editor. It's a clean, minimalist interface, which summarizes its best and worst aspects. 
+ one of the first results on Google for "markdown editor github pages." 
+ attention but in practice feels incomplete and feature poor. 
 
  This oft-mentioned editor is solid but rather spartan. The interface is similar to editing markdown on github.com but with a nicer editor and more syncing options. (Actually, it might use the exact same editor, [atom](atom.io).)
 
@@ -56,5 +58,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM5MjExNTAsMjExNDMyNzE2XX0=
+eyJoaXN0b3J5IjpbLTE3NTM0MjU5NDcsMjExNDMyNzE2XX0=
 -->
