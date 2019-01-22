@@ -32,7 +32,7 @@ My rating: **3 / 5**
 
 Prose.io is a pretty good editor. It's a clean, minimalist app, which summarizes its best and worst aspects. The site is a breeze to use, with no clutter, but in practice prose.io feels incomplete and feature poor. It's basically like editing markdown on github.com, but with a nicer editor and more syncing options. (Actually, the editor might be the same... the [atom](atom.io) editor, open sourced by GitHub.)
 
-Many features are missing from the experience, though. No keyboard shortcuts. No instant preview. It can't move files, which means you can't publish articles by, for example, moving them from `_drafts` to `_posts`.  And inexplicably the text editor uses 2/3 of the screen. The remaining white space stands as a monument, in a way, to the app's unfinished state and/or
+Many features are missing from the experience, though. No keyboard shortcuts. No instant preview. It can't move files, which means you can't publish articles by, for example, moving them from `_drafts` to `_posts`.  And inexplicably the text editor uses 2/3 of the screen. The remaining white space stands as a monument, in a way, to the app's unfinished state -- a subtle yet vast reminder of how disappointing app is.
 
 ### StackEdit
 
@@ -59,6 +59,6 @@ The best approach when blogging with Jekyll and Pages, then, is probably somethi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDMxNTY2MSwxMDMyMzM3MzE3LC05MD
-U1OTA0MTldfQ==
+eyJoaXN0b3J5IjpbNjQ0MDk0MTY5LDEwMzIzMzczMTcsLTkwNT
+U5MDQxOV19
 -->
