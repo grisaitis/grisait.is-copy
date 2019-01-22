@@ -7,13 +7,13 @@ When I started blogging with Jekyll and GitHub Pages, I thought the best approac
 
 Basically, I'm not fluent in markdown syntax -- the language for formatting these documents with headers, sections, etc. -- and neither do I want to be. And I'd also like to avoid making git commits, managing folders with drafts, and other technical things. I just want to write, which is enough work as it is. 
 
-Here's what I' looking for in an editor:
-- Offline support
-- A mobile app, or a good mobile browser design
-- Integrations with Google Docs and GitHub
-	- I'd like to edit articles via Google Docs, especially if offline and mobile support is scant.
-- Caching drafts
-	- When I refresh the page, I should not lose my work
+Here's what I'd like in an editor:
+- A Google Docs-like interface
+	- Offline editing
+	- A good mobile app (or mobile-responsive site)
+	- AutoaCaching 
+		- When I refresh the page, I should not lose my work
+- Integration with GitHub
 - A LaTeX editor, formula builder, or something to help with LaTeX syntax
 
 So what's the best editor? Does a good one even exist? What features are most important for a Pages blog? An ideal editor would be something like Google Docs with two additions: (1) the ability to sync with GitHub and (2) a LaTeX editor for math expressions. Does something like this exist? No.
@@ -65,5 +65,5 @@ The best approach to blogging with Jekyll and Pages, then, is:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTg0OTQ0MywyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbMTgwMzQ0ODc1NCwyMTE0MzI3MTZdfQ==
 -->
