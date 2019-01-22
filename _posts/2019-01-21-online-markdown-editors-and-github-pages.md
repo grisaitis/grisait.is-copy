@@ -16,11 +16,11 @@ Here's what I'd like in an editor:
 - A Google Docs-like interface
 	- Offline editing
 	- A good mobile app (or mobile-responsive site)
-	- Autosave (when I refresh the page, I should not lose my work)
+	- Autosave (e.g. refreshing the page doesn't lose your work)
 - Integration with GitHub
 - A LaTeX formula editor or syntax assistant
 
-In this post I explore some options, but be warned: **there doesn't seem to be a great markdown editor out there** with the features I think are crucial. The most popular free editors, after to some googling, seem to be prose.io, stackedit.io, and dillinger.io. (Please comment below if you think I'm missing a big one.) I try out the first two, and also a Google Docs plugin for Pages that looked promising but... Well, you'll see. :)
+In this post I explore some options, but be warned: **there doesn't seem to be a great markdown editor out there** with the features I think are crucial. The most popular free editors, after to some googling, seem to be [Prose.io](prose.io), [StackEdit.io](stackedit.io), and [Dillinger.io](dillinger.io). (Please comment below if you think I'm missing a big one.) I tried out the first two, and also a Google Docs plugin for Pages that looked promising but... Well, you'll see. :)
 
 #### Gabriel: A Google Docs Extension for GitHub Pages
 My rating: **0 / 5**
