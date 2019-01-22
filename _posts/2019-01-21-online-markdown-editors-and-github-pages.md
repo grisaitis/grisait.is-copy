@@ -39,7 +39,7 @@ The interface strikes a great balance between simplicity and displaying useful f
 ### Gabriel (Google Docs Add-on)
 My rating: **? / 5**
 
-Someone actually made a Google Docs add-on for Pages! ... But I'm not sure it even works. The add-on, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). Nice idea, but probably not a reliable solution.
+This isn't a markdown editor, but rather a Google Docs add-on for Pages. But I'm not sure it even works: the project code is hasn't changed [since 2015](https://github.com/thiscouldbejd/Gabriel) and [reviews are unenthusiastic](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff) on the Chrome Store. . The add-on, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But Nice idea, but probably not a reliable solution.
 
 ## Closing thoughts
 
@@ -58,6 +58,6 @@ The best approach when blogging with Jekyll and Pages, then, is probably somethi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODgyMjUyMCw1NTc0MTY3ODgsMTAzMj
-MzNzMxNywtOTA1NTkwNDE5XX0=
+eyJoaXN0b3J5IjpbMjY0NzQyNTI2LDU1NzQxNjc4OCwxMDMyMz
+M3MzE3LC05MDU1OTA0MTldfQ==
 -->
