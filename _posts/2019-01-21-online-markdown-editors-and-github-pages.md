@@ -20,12 +20,6 @@ Here's what I'd like in an editor:
 
 In this post I explore some options, but be warned: **there doesn't seem to be a great markdown editor out there** with the features I think are crucial. The most popular free editors, after to some googling, seem to be [Prose.io](prose.io), [StackEdit.io](stackedit.io), and [Dillinger.io](dillinger.io). (Please comment below if you think I'm missing a big one.) I tried out the first two, and also a Google Docs plugin for Pages that looked promising but... Well, you'll see. :)
 
-### Gabriel (Google Docs Add-on)
-My rating: **0 / 5**
-
-Someone actually made a Google Docs add-on for Pages! ... But I'm not sure it even works. The add-on, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). Nice idea, but not a reliable solution.
-
-
 ### Prose.io
 
 My rating: **3 / 5** 
@@ -41,6 +35,11 @@ My rating: **4 / 5**
 This was the best editor I tried, but it still left some things to be desired.
 
 The interface strikes a great balance between simplicity and displaying useful functionality while editing. The app has two partitions: an editor on the left for writing markdown and a viewer on the right with instantly rendered text. Neither side feels cramped. StackEdit has most keyboard shortcuts, too, like tab for indentation... but not Cmd + K, oddly, for creating a link. It also feels old (circa 2014?), and there's no mobile app. And besides, should a text editor get credit for implementing tab indentation in 2019? I'm probably being generous. (Prose.io lowered my standards, I think.)
+
+### Gabriel (Google Docs Add-on)
+My rating: **? / 5**
+
+Someone actually made a Google Docs add-on for Pages! ... But I'm not sure it even works. The add-on, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. But the project code is [unchanged since 2015](https://github.com/thiscouldbejd/Gabriel) and reviews are unenthusiastic on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). Nice idea, but probably not a reliable solution.
 
 ## Closing thoughts
 
@@ -59,6 +58,6 @@ The best approach when blogging with Jekyll and Pages, then, is probably somethi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NDE2Nzg4LDEwMzIzMzczMTcsLTkwNT
-U5MDQxOV19
+eyJoaXN0b3J5IjpbMTI0ODgyMjUyMCw1NTc0MTY3ODgsMTAzMj
+MzNzMxNywtOTA1NTkwNDE5XX0=
 -->
