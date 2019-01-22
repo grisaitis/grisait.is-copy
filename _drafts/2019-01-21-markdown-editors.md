@@ -4,7 +4,7 @@ Welcome back! In a previous post I discussed workflows for maintaining a blog po
 
 Markdown editors make blogging much easier. You can focus much more on content and less on technical details like formatting your page, making git commits, managing drafts and published files, etc. 
 
-My ideal writing environment would be a Google Docs plug-in where I could draft a document in Docs and have it be saved automatically (as a markdown file) to my GitHub repo. And where I could add math forumulas as LaTeX.
+My ideal writing environment would be a Google Docs plug-in where I could draft a document in Docs and have it be saved automatically (as a markdown file) to my GitHub repo. And where I could add math formulas as LaTeX.
 
 That said, here are some features I'm looking for
 - Draft caching: Will I lose my work if I refresh the browser while drafting a new document?
@@ -35,6 +35,12 @@ The bad
 The ugly
 - The text editor only takes up 2/3 of the screen (..?)
 - Can't move files to different folders (!!)
+
+### StackEdit
+
+**4.5 / 5** 
+The good
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNTgwMDQwXX0=
+eyJoaXN0b3J5IjpbLTQ3MDMxMDA5OCw5OTI1ODAwNDBdfQ==
 -->
