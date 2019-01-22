@@ -47,13 +47,10 @@ The interface strikes a great balance between simplicity and displaying useful f
 
 There are plenty of markdown editors out there, but, honestly, they all kind of suck in some very important way. **Google Docs is still the best text editor.** Sure, it lacks GitHub integration and native support for markdown, but no markdown editor will surpass Google Docs in terms of the writing interface, mobile support, offline editing, collaboration, and everything else that make it indispensable and productive.
 
-Put another way: 
-1. Integration with GitHub is not the most important feature in a markdown editor
-2. A markdown editor is not the best solution for managing a Jekyll Pages site. 
-
-Would I like a great text editor to have GitHub integration, in addition to handling markdown for me? Yes, but such an app doesn't exist. But even if it did, it'd still be useless if the writing interface isn't 
+Put another way, integration with GitHub is not the most important feature in a markdown editor, and **a markdown editor is not the best solution for managing a Jekyll Pages site**. Would I like a markdown editor to have both GitHub integration and fantastic te? Yes, but such an app doesn't exist. And  the odds of it matching Google Doc's interface are pretty low, too. 
 
 The best approach to blogging with Jekyll and Pages, then, is:
+
 3. Draft in Google Docs
 4. Use a markdown editor, briefly, to convert the document to markdown
 5. Publish the article in one of two ways:
@@ -62,6 +59,6 @@ The best approach to blogging with Jekyll and Pages, then, is:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTI0NDYwOCwtMTI3NzQxMzc1NCwyMT
+eyJoaXN0b3J5IjpbLTc1Mzk4NDczMCwtMTI3NzQxMzc1NCwyMT
 E0MzI3MTZdfQ==
 -->
