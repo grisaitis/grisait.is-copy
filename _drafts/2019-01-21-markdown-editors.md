@@ -40,7 +40,8 @@ The ugly
 
 **4.5 / 5** 
 The good
-- 
+-  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDMxMDA5OCw5OTI1ODAwNDBdfQ==
+eyJoaXN0b3J5IjpbNzM0MjMxNzUwLC00NzAzMTAwOTgsOTkyNT
+gwMDQwXX0=
 -->
