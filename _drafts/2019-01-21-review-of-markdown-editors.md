@@ -1,11 +1,8 @@
 ## Online Markdown Editors and GitHub Pages
 
-Using a markdown editor is a great way to draft and publish blog posts for a Jekyll + GitHub Pages site. I'm not fluent in markdown syntax and neither do I want to be. 
+Using a markdown editor is a great way to draft and publish blog posts for a Jekyll + GitHub Pages site. I'm not fluent in markdown syntax -- the language for formatting text in these documents, with headers, sections, and so on -- and neither do I want to be. And beyond markdown I want to 
 
-That's a popular stack for tech bloggers, but pretty bare-bones when it comes to actually drafting blog posts. For a better writing experience I'm trying out a few markdown editors.
-
-
-Markdown editors make blogging much easier. You can focus much more on content and less on technical details like formatting your page, making git commits, managing drafts and published files, etc. 
+technical details like formatting your page, making git commits, managing drafts and published files, etc. 
 
 My ideal writing environment would be a Google Docs plug-in where I could draft a document in Docs and have it be saved automatically (as a markdown file) to my GitHub repo. And where I could add math formulas as LaTeX.
 
@@ -52,5 +49,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDgwODkyXX0=
+eyJoaXN0b3J5IjpbOTMzMTIxODc3XX0=
 -->
