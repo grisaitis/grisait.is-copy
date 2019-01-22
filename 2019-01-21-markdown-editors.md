@@ -33,3 +33,4 @@ The bad
 
 The ugly
 - The text editor only takes up 2/3 of the screen (..?)
+- Can't move files to different folders (!!)
