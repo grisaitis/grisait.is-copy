@@ -11,11 +11,11 @@ Here's what I'd like in an editor:
 - A Google Docs-like interface
 	- Offline editing
 	- A good mobile app (or mobile-responsive site)
-	- AutoaCaching 
-		- When I refresh the page, I should not lose my work
+	- Autosave (when I refresh the page, I should not lose my work)
 - Integration with GitHub
-- A LaTeX editor, formula builder, or something to help with LaTeX syntax
+- A LaTeX formula editor or syntax assistant
 
+In this post I explore some options, but be warned: there doesn't seem to be a great markdown editor out there with the features I think are crucial. 
 So what's the best editor? Does a good one even exist? What features are most important for a Pages blog? An ideal editor would be something like Google Docs with two additions: (1) the ability to sync with GitHub and (2) a LaTeX editor for math expressions. Does something like this exist? No.
 
 
@@ -65,5 +65,5 @@ The best approach to blogging with Jekyll and Pages, then, is:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzQ0ODc1NCwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMzY2ODU1ODIsMjExNDMyNzE2XX0=
 -->
