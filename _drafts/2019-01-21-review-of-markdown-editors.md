@@ -27,19 +27,11 @@ My rating: **3.5 / 5**
 
 Prose.io is a pretty good editor. It's a clean, minimalist app, which summarizes its best and worst aspects. The site is a breeze to use, with no clutter, but in practice prose.io feels incomplete and feature poor. It's basically like editing markdown on github.com, but with a nicer editor and more syncing options. (Actually, the editor might be the same... the [atom](atom.io) editor, open sourced by GitHub.)
 
-A few more details:
- The good:
-- Clean interface
-
-The bad:
-- No keyboard shortcuts (e.g. Cmd + K for links)
+A few more critiques...
+- No keyboard shortcuts
 - No instant preview
-- Weird markdown editing behavior
-  - E.g, clicking a header format doesn't change the format of the current line; it creates a new paragraph, breaking the text at wherever your cursor was. 
-
-The ugly:
 - The text editor only takes up 2/3 of the screen (..?)
-- Can't move files to different folders (!!)
+- Can't move files to different folders (e.g. from `_drafts` to `_posts`)
 
 ### StackEdit
 
@@ -55,5 +47,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5ODY2NDEsMjExNDMyNzE2XX0=
+eyJoaXN0b3J5IjpbLTE0MTU1OTYzNDQsMjExNDMyNzE2XX0=
 -->
