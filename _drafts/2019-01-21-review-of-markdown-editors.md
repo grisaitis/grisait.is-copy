@@ -2,11 +2,9 @@
 
 Using a markdown editor is a great way to draft and publish blog posts for a Jekyll + GitHub Pages site. I'm not fluent in markdown syntax -- the language for formatting text in these documents, with headers, sections, and so on -- and neither do I want to be. And beyond markdown I want to avoid technical details like formatting pages, making git commits, managing folders with drafts, etc. 
 
-That said, what's the best editor? Is there one out there that actually works well? And what features should it have to be most useful for a Pages blog? 
+That said, what's the best editor? Is there one out there that actually works well? And what features should it have to be most useful for a Pages blog? My ideal editor would be something like Google Docs with two additions: (1) the ability to sync with GitHub and (2) a LaTeX editor for math expressions. Does something like this exist?
 
-My ideal editor would be something like Google Docs with two additions: (1) the ability to sync with GitHub an. , I'd add a Google Docs extension that can edit and sync markdown files in my site's GitHub repo. 
-
-The most popular free options, according to some googling,  are prose.io, stackedit.io, and dillinger.io. (If I'm missing a big one, please comment below.)
+I haven't found anything that checks all my boxes, but I've tried a few. The most popular free options, according to some googling,  are prose.io, stackedit.io, and dillinger.io. (If I'm missing a big one, please comment below.)
 
 
 
@@ -56,5 +54,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyODUxMzg2LDIxMTQzMjcxNl19
+eyJoaXN0b3J5IjpbLTg5MTA4MTMyNSwyMTE0MzI3MTZdfQ==
 -->
