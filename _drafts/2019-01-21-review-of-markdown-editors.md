@@ -8,11 +8,11 @@ I haven't found anything that checks all my boxes, but I've tried a few. The mos
 
 Here's what I'm looking for in an editor:
 - Offline support
-- A mobile app, or a good mobile brows
-- Draft caching: Will I lose my work if I refresh the browser while drafting a new document?
-- Mobile friendliness: Is there an app? A responsive website?
-- Offline mode
-- Integrations with Google Drive and GitHub
+- A mobile app, or a good mobile browser design
+- Integrations with Google Docs and GitHub
+	- I'd like to edit articles via Google Docs, especially if offline and mobile support is scant.
+- Draft caching
+	-  Will I lose my work if I refresh the browser while drafting a new document?
 - LaTeX editing: a formula builder or editor to assist with LaTeX syntax
 - Text blocks formatted for code, quotes, etc
 
@@ -54,5 +54,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYwNTIzMjAsMjExNDMyNzE2XX0=
+eyJoaXN0b3J5IjpbLTc0NzE5MDQxNSwyMTE0MzI3MTZdfQ==
 -->
