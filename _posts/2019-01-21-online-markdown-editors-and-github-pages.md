@@ -42,7 +42,7 @@ This was the best editor I tried, but it still left some things to be desired.
 
 The interface strikes a great balance between simplicity and displaying useful functionality while editing. The app has two partitions: an editor on the left for writing markdown and a viewer on the right with instantly rendered text. Neither side feels cramped. StackEdit has most keyboard shortcuts, too, like tab for indentation... but not Cmd + K, oddly, for creating a link. It also feels old (circa 2014?), and there's no mobile app. And besides, should a text editor get credit for implementing tab indentation in 2019? I'm probably being generous. (Prose.io lowered my standards, I think.)
 
-### Closing thoughts
+## Closing thoughts
 
 There are plenty of markdown editors out there, but, honestly, they all kind of suck in some very important way. **Google Docs is still the best text editor.** Sure, it lacks GitHub integration and native support for markdown, but no markdown editor will surpass Google Docs in terms of the writing interface, mobile support, offline editing, collaboration, and everything else that make it indispensable and productive.
 
@@ -59,6 +59,6 @@ The best approach when blogging with Jekyll and Pages, then, is probably somethi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5NDkwNjkzLDEwMzIzMzczMTcsLTkwNT
+eyJoaXN0b3J5IjpbNTU3NDE2Nzg4LDEwMzIzMzczMTcsLTkwNT
 U5MDQxOV19
 -->
