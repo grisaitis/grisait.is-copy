@@ -2,7 +2,7 @@
 
 Using a markdown editor is a great way to draft and publish blog posts for a Jekyll + GitHub Pages site. I'm not fluent in markdown syntax -- the language for formatting text in these documents, with headers, sections, and so on -- and neither do I want to be. And beyond markdown I want to avoid technical details like formatting pages, making git commits, managing folders with drafts, etc. 
 
-But what's the best editor, and what features are most relevant for a Pages blog? The most popular free options, according to some googling,  are prose.io, stackedit.io, and dillinger.io. (If I'm missing a big one, please comment below.)
+That said, what app should you use? But what's the best editor, and what features are most relevant for a Pages blog? The most popular free options, according to some googling,  are prose.io, stackedit.io, and dillinger.io. (If I'm missing a big one, please comment below.)
 
 If I could create an ideal workflow out of thin air, I'd add a Google Docs extension that can edit and sync markdown files in my site's GitHub repo. And perhaps also a LaTeX editor for math formulas. 
 
@@ -16,11 +16,14 @@ That said, here are some features I'm looking for
 
 #### Project Gabriel
 
-It turns out someone did in fact make an interesting Google Docs plugin, but it gets bad reviews and was abandoned in 2015. The plug-in, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately the source code is unchanged since 2015 and the product gets unenthusiastic reviews on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)).
+It turns out someone did in fact make an interesting Google Docs plugin, but it gets bad reviews and was abandoned in 2015. The plug-in, [Gabriel](https://educ.io/extensions/gabriel), converts docs to markdown and commits them to a Pages repo. Unfortunately [the project code](https://github.com/thiscouldbejd/Gabriel)) is unchanged since 2015 and it gets unenthusiastic reviews on the Chrome Store ([3 stars, 28 reviews](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff)). 
 
 #### Prose.io
 
-**3.5 / 5** This oft-mentioned editor is solid but rather spartan. The interface is similar to editing markdown on github.com but with a nicer editor and more syncing options. (Actually, it might use the exact same editor, [atom](atom.io).)
+**3.5 / 5** 
+Prose.io gets a lot of attention but in practice feels incomplete and feature poor. 
+
+ This oft-mentioned editor is solid but rather spartan. The interface is similar to editing markdown on github.com but with a nicer editor and more syncing options. (Actually, it might use the exact same editor, [atom](atom.io).)
 
  The good:
 - Clean interface
@@ -49,5 +52,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDUyMzk2MiwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbMjA2MzM1OTYwOSwyMTE0MzI3MTZdfQ==
 -->
