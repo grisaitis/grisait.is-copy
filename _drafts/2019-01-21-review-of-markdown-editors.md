@@ -39,7 +39,7 @@ My rating: **4 / 5**
 
 This is the best editor I've tried so far, but it still leaves some things to be desired for this picky writer. 
 
-The interface strikes a great balance between simplicity and making as many options visible to you for editing. The app is divided in two: the left side for writing in markdown and the right side with result instantly rendered. Neither side feels cramped. 
+The interface strikes a great balance between simplicity and making as many options visible to you for editing. The app is divided in two: the left side is for writing in markdown, and the right side renders the result instantly. Neither side feels cramped. StackEdit also sports most keyboard shortcuts, like tab for indentation, but 
 
 The good:
 - Instant preview!
@@ -52,5 +52,5 @@ The bad:
 - No app
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTk1ODg4NCwyMTE0MzI3MTZdfQ==
+eyJoaXN0b3J5IjpbMTExNzM4MDI3MSwyMTE0MzI3MTZdfQ==
 -->
